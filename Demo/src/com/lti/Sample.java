@@ -7,6 +7,7 @@ public class Sample {
 		
 		System.out.println("Welcome to LTI");
 		System.out.println("Bye");
+		
 
 	}
 
